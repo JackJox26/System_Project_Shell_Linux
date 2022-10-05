@@ -1,4 +1,0 @@
-you have to install the commandline with 
-%sudo apt install libreadline-dev
-launch %gcc *.c -lreadline -o Projet.exe
-%./Projet.exe
